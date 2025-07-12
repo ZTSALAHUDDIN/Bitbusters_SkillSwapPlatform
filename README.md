@@ -1,6 +1,11 @@
 # Bitbusters_SkillSwapPlatform
 # problem statement : Develop a Skill Swap Platform — a mini application that enables users to list their skills and request others in return.
 # Team name: Team 4023
+# Team members:
+  1. Zoya Salahuddin
+  2. Tanu Sinha
+  3. Srijan Jha
+  4. Vaishnavi Khade
 # <h5>email: salahuddinzoya06@gmail.com</h5>
 
 
