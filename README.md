@@ -1,6 +1,6 @@
 # Bitbusters_SkillSwapPlatform
 # problem statement : Develop a Skill Swap Platform — a mini application that enables users to list their skills and request others in return.
-# Video link: 
+# Video link: https://www.youtube.com/watch?v=Lim6aLo6DeA
 # Team name: Team 4023
 # Team members:
   1. Zoya Salahuddin
